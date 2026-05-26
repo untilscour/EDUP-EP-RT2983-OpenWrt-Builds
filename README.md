@@ -1,3 +1,6 @@
+# OpenWrt for EDUP EP-RT2983
+Since https://github.com/openwrt/openwrt/commit/6a8f9fa54d5852279fd72f56a139ed809cc388af (https://github.com/openwrt/openwrt/pull/22197) and https://github.com/openwrt/openwrt/commit/4a45e398ed6e5873f067fbe0093f05e86b1fa621 (https://github.com/openwrt/openwrt/pull/22906) have been merged, official OpenWrt builds are available at the [Firmware Selector](https://firmware-selector.openwrt.org/?version=25.12.3&target=ramips%2Fmt7621&id=edup_ep-rt2983) for `v25.12.3` and later.
+
 # OpenWrt 25.12.2 for EDUP EP-RT2983
 EDUP EP-RT2983 comes with a factory installed version of OpenWrt 23.05 with device name "netis,n6".
 
